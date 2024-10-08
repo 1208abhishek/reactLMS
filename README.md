@@ -1,5 +1,7 @@
-Project Demo : https://scintillating-smakager-860376.netlify.app/  
+# React Weather App
+Built a fully responsive web application using React.js, featuring a modern UI/UX for browsing and enrolling in online courses. Integrated dynamic course listings, testimonials, pricing packages, and a blog section, ensuring seamless navigation and an engaging user experience. Employed best practices in component-based architecture to optimize performance, with features like course search, pricing comparison, and user testimonials to enhance engagement.
 
-Project Video : https://www.youtube.com/watch?v=KkQATIXBY5w&ab_channel=GorkCoder
+# Technologies 
+- React.js, JavaScript, HTML, CSS
 
-![screencapture-scintillating-smakager-860376-netlify-app-2023-06-18-11_57_15](https://github.com/sunil9813/Education-Website-Using-ReactJS/assets/67497228/37450154-6e7a-45fd-9793-c731dcc56e2b)
+# Live 
